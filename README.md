@@ -1,17 +1,17 @@
 <div align="center">
 
-<img src="https://github.com/AhmedHisham/AhmedHisham/blob/main/images/hellocoders.gif?raw=true" width="60%"/> <br>
-<img src="https://github.com/AhmedHisham/AhmedHisham/blob/main/images/dev-working.gif?raw=true" width="40%"/><br>
+<img src="images/ahmed_hellocoders.gif" width="60%"/> <br>
+<img src="images/ahmed_devworking.gif" width="40%"/><br>
 
 <h2>Hi 👋 I'm Ahmed Hisham</h2>
-<h4>Android Developer | Front-End Developer | Databases</h4>
+<h4>Android Mobile Application Developer | Front-End Developer | Database</h4>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
-- 📱 Android Developer using **Kotlin & Android Studio**
+👨‍💻 About Me
+- 📱 Android Mobile Application Developer using **Kotlin & Android Studio**
 - 🌐 Front-End Developer (**HTML, CSS, JavaScript**)
 - 🗄️ Database Experience: **Oracle & MySQL**
 - 🎓 Computer Engineering Student
@@ -19,7 +19,7 @@
 
 ---
 
-## 🚀 Programming Languages
+🚀 Programming Languages
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
@@ -28,13 +28,13 @@
 
 ---
 
-## 📱 Mobile Development
+📱 Mobile Development
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
 
 ---
 
-## 🗄️ Databases
+🗄️ Databases
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=flat&logo=firebase&logoColor=black)
@@ -42,14 +42,14 @@
 
 ---
 
-## 🛠️ Tools
+🛠️ Tools
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=flat&logo=github-pages&logoColor=white)
 
 ---
 
-## 🧠 Skills Summary (Code Style)
+🧠 Skills Summary (Code Style)
 
 ```kotlin
 class AhmedHisham {
