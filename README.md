@@ -1,7 +1,7 @@
 <div align="center">
 
-<img src="images/ahmed_hellocoders.gif" width="60%"/> <br>
-<img src="images/ahmed_devworking.gif" width="40%"/><br>
+<img src="images/banner1.png" width="80%" />
+<img src="images/banner2.png" width="80%" />
 
 <h2>Hi 👋 I'm Ahmed Hisham</h2>
 <h4>Android Mobile Application Developer | Front-End Developer | Database</h4>
