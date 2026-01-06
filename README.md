@@ -1,19 +1,19 @@
 <div align="center">
 
-<img src="banner.gif" width="80%" />
+<img src="banner.gif" width="800" />
 
 <h2>Hi 👋 I'm Ahmed Hisham</h2>
-<h4>Android Mobile Application Developer | Front-End Developer | Database</h4>
+<h4>Electrical Engineer | Computer Systems | Android & Front-End Developer</h4>
 
 </div>
 
 ---
 
 👨‍💻 About Me
+- ⚡ Electrical Engineer specialized in **Computer Systems**
 - 📱 Android Mobile Application Developer using **Kotlin & Android Studio**
 - 🌐 Front-End Developer (**HTML, CSS, JavaScript**)
 - 🗄️ Database Experience: **Oracle & MySQL**
-- 🎓 Computer Engineering Student
 - 🚀 Passionate about building real-world and scalable applications
 
 ---
