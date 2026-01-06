@@ -3,14 +3,14 @@
 <img src="banner.gif" width="800" />
 
 <h2>Hi 👋 I'm Ahmed Hisham</h2>
-<h4>Electrical Engineer | Computer Systems | Android & Front-End Developer</h4>
+<h4>Electrical Engineer | Computer Engineering | Android & Front-End Developer</h4>
 
 </div>
 
 ---
 
 👨‍💻 About Me
-- ⚡ Electrical Engineer specialized in **Computer Systems**
+- ⚡ Electrical Engineer specialized in **Computer Engineering**
 - 📱 Android Mobile Application Developer using **Kotlin & Android Studio**
 - 🌐 Front-End Developer (**HTML, CSS, JavaScript**)
 - 🗄️ Database Experience: **Oracle & MySQL**
