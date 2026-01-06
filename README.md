@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="banner1.png" width="80%" />
-<img src="banner2.png" width="80%" />
+<img src="banner.gif" width="80%" />
 
 <h2>Hi 👋 I'm Ahmed Hisham</h2>
 <h4>Android Mobile Application Developer | Front-End Developer | Database</h4>
