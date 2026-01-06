@@ -1,5 +1,5 @@
 <div align="center">
-    
+
 <img src="https://github.com/AhmedHisham/AhmedHisham/blob/main/images/hellocoders.gif?raw=true" width="60%"/> <br>
 <img src="https://github.com/AhmedHisham/AhmedHisham/blob/main/images/dev-working.gif?raw=true" width="40%"/><br>
 
@@ -25,7 +25,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
 
 ---
 
