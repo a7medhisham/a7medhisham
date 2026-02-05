@@ -3,7 +3,7 @@
 <img src="banner.gif" width="800" />
 
 <h2>Hi 👋 I'm Ahmed Hisham</h2>
-<h4>Electrical Engineer | Computer Engineering | Android & Front-End Developer</h4>
+<h4>Electrical Engineer | Computer Engineering | Android & Front-End Developer & database management</h4>
 
 </div>
 
